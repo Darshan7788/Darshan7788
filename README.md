@@ -17,13 +17,13 @@
 
 
 <!-- PROFILE VIEWS -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2502&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2502" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darshan7788&label=Profile%20views&color=0e75b6&style=flat" alt="Darshan7788" /> </p>
 
 
 <!-- ABOUT ME -->
 <h3 align="left">About me :</h3>
 
-- 👨‍💻 Portfolio: [https://abhishek-2502.github.io/Portfolio/](https://abhishek-2502.github.io/Portfolio/)
+- 👨‍💻 Portfolio: [https://Darshan7788.github.io/Portfolio/](https://Darshan7788.github.io/Portfolio/)
   
 - 🔭 I’m currently working as an Intern at [SpacECE](https://www.spacece.in/)
 
@@ -106,11 +106,11 @@
 </div>
 
 <!-- WHITE THEME STATS-->
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-2502&show_icons=true&locale=en" alt="abhishek-2502" /></p> -->
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshan7788&show_icons=true&locale=en" alt="Darshan7788" /></p> -->
 <!-- Most Used Lang-->
-<!-- <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2502&show_icons=true&locale=en&layout=compact" alt="abhishek-2502" width="300" height="200"/></p> -->
+<!-- <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshan7788&show_icons=true&locale=en&layout=compact" alt="Darshan7788" width="300" height="200"/></p> -->
 <!-- Streak-->
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-2502&" alt="abhishek-2502" height="200"/></p> -->
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan7788&" alt="Darshan7788" height="200"/></p> -->
  
 
 <!-- ANIMATED ROCKET -->
@@ -124,7 +124,7 @@
 <!-- GITHUB STATS -->
 <div align="center">
   <a href="#">
-    <img src="https://bad-apple-github-readme.vercel.app/api?username=Abhishek-2502&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt=" ">
+    <img src="https://bad-apple-github-readme.vercel.app/api?username=Darshan7788&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt=" ">
   </a>
 </div>
 
@@ -132,8 +132,8 @@
 <!-- STREAK -->
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Abhishek-2502&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt=" ">
-    <img src="https://streak-stats.demolab.com/?user=Abhishek-2502&count_private=true&theme=blue-green&title_color=00b3ff" alt="">
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Darshan7788&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt=" ">
+    <img src="https://streak-stats.demolab.com/?user=Darshan7788&count_private=true&theme=blue-green&title_color=00b3ff" alt="">
   </a>
 </div>
 
