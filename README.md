@@ -13,7 +13,7 @@
 
 
 <!-- ANIMATED GIF -->
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Rkeng1eXVrd2lzZ3g5b2I5MHhqdDZ0aGZkaXp1dGN2Y2ZkMmZ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/e2fcb051-1943-4aa3-af9a-f7a5613bd155">
 
 
 <!-- PROFILE VIEWS -->
