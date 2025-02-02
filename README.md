@@ -1,6 +1,5 @@
 <!-- BANNER -->
-<p align="center"><img align="center" alt="Banner" src="![Beige Feminine Personal LinkedIn Banner (2)](https://github.com/user-attachments/assets/7b58ec37-29c7-4258-a9f5-ac43237769b1)
-"></p>
+<p align="center"><img align="center" alt="Banner" src="https://github.com/user-attachments/assets/885ad9b4-a709-4080-8c87-51eac3fd2587"></p>
 
 
 <b><h1 align="center">ROBOTICS ENGINEER</h1></b>
