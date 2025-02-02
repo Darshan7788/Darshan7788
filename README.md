@@ -75,9 +75,6 @@
 
 
 
- <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshetp&show_icons=true&locale=en&layout=compact" alt="akshetp" /></p> -->
-<h3 align="left">GitHub Stats:</h3>
-
 <h3 align="center">DB and Tools</h3>
 <div align="center">
   <a href="#">
