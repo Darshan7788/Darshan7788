@@ -120,7 +120,6 @@
 </div>
 
 <!-- CONTRIBUTION SNAKE -->
-<a href=#><img src="contributions (1).svg"></a>
 
 <!-- BOTTOM FLOWING ANIMATION -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
