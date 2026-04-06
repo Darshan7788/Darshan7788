@@ -30,12 +30,11 @@
 
 <h3 align="left">Try it out !</h3>
 
-- [Github Followers Tracker](https://git-followers-tracker.vercel.app)
 
 <!-- SOCIAL MEDIA -->
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/darshan-chotaliya-aa4b2828783444334as/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/palak-rajput-069336264" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/darshan-chotaliya-aa4b2828783444334as/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/abhishek250204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek250204" height="30" width="40" /></a> -->
 <a href="" target="blank"><img align="center" 
                                                               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi-2502" height="30" width="40" /></a>
